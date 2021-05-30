@@ -6,8 +6,11 @@ O projeto consiste em uma aplicação web que faz o cadastro de usuários
 Esse foi o primeiro Projeto de React vdo Curso WEB, onde ainda estamos usando Json como banco de dados. 
 Posteriormente vamos ver como fazer isso com Express e Mongo
 
--- Melhorias futuras:
-  Implementar banco de Dados na aplicação
+
+Foi um ótimo projeto para aplicar os conceitos do React, como props E states dos componentes e como isso funciona, além da implementação de um arquivo de rotas para trabalhar com toda a navegação, realizando a troca dos componentes que irão aparecer na tela. 
+
+
+-- Futuramente conforme avançar no curso, iremos implementar o mesmo projeto com um banco de dados real. 
 
 <img alt="Interface" src="https://github.com/Emerson00Santos/Users.React/blob/main/index.png?raw=true" width="100%" align="center">
 
